@@ -1,11 +1,11 @@
 # Online Attendance Automation
 
-COVID19 had brought a new problem of manual online attendance,
+COVID19 had brought a new problem of online attendance completion,
 and since I had more than just one and had to do it every weekday, 
-I created this script to automate it. 
+I created this script to automate my attendance. 
 
 The script logs on to the gmail, parses messages containing attendance,
-opens their links in a browser with new tabs for every url, and fills it in for you.
+opens their links in a browser with new tabs for every url, and does the attendance for you.
 
 
 # Usage:
